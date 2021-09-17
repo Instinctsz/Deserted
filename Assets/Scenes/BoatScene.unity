@@ -567,8 +567,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 447850394bff952438879e4b080c65ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blackImage: {fileID: 348153766}
-  whiteImage: {fileID: 1300546248}
+  blackImage: {fileID: 1888350765}
+  whiteImage: {fileID: 565712196}
   audio: {fileID: 286254942}
   audioThunder: {fileID: 64749056}
   audioThunderImpact: {fileID: 622830408}
@@ -587,17 +587,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &348153766 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 348153766, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
-  m_PrefabInstance: {fileID: 373809111}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &363239539
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1713,17 +1702,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0b08b1bc9689a4e42be3189e40f17c70, type: 3}
---- !u!114 &1300546248 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1300546248, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
-  m_PrefabInstance: {fileID: 373809111}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1484702507
 PrefabInstance:
   m_ObjectHideFlags: 0
